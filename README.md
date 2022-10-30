@@ -1,5 +1,8 @@
 # NobleSys-tk.github.io
 
+## 2022-10-30
+- bio,link,caution,read add/fix
+
 ## 2022-09-08
 - navbar-inverse fix
 - ww padding fix
