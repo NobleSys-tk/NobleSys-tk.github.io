@@ -139,6 +139,21 @@ hr {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #f2f2f2;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+#ww:before {
+  content: '';
+  background-image: url(https://pbs.twimg.com/profile_banners/1376924338327195649/1685962312/1500x500);
+  background-size:100%;
+  position: absolute;
+  top: -3px;
+  bottom: -3px;
+  left: -3px;
+  right: -3px;
+  filter: blur(3px);
+  z-index: -1;
 }
 
 #footer {
