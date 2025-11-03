@@ -1,5 +1,8 @@
 # NobleSys-tk.github.io
 
+## 2025-11-03
+- Profile big renovation
+
 ## 2023-07-03
 - SNS Account add
 - headline tag fix
